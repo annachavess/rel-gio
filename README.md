@@ -1,2 +1,2 @@
-# rel-gio
+# relogio
 relógio digital
